@@ -8,3 +8,4 @@ import seaborn as sns
 df = pd.read_csv('spotify_songs.csv')
 print(df.head())
 print(df.describe())
+
